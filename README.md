@@ -8,3 +8,5 @@ Successfully completed a machine learning project focused on estimating regressi
 - Generate synthetic datasets for training by applying a custom linear equation, where multiple random inputs are mapped to an output using predefined coefficients, enabling the model to learn these relationships.
 - Train the model by fitting the input dataset (`X`) and output target (`Y`), and evaluate its performance by making predictions on test data, comparing predicted results with expected outcomes.
 - Extract and analyze the estimated coefficients of the linear regression model to assess the model's accuracy in learning the underlying linear relationships between the variables.
+
+<img width="1379" alt="Screenshot 2024-09-16 at 20 44 42" src="https://github.com/user-attachments/assets/fbae4673-3cff-4848-9d7c-af0118209a46">
